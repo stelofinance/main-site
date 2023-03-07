@@ -1,6 +1,6 @@
 <div class="my-10 mx-6 flex rounded-lg bg-gradient-to-r from-melrose to-anakiwa p-4">
 	<div class="flex flex-col">
-		<h4 class="text-2xl font-medium">Contribute to the Stelo Ecosystem</h4>
+		<p class="text-2xl font-medium">Contribute to the Stelo Ecosystem</p>
 		<p class="mt-3">
 			Have a great idea for an app on our platform? Or maybe you're looking to directly contribe to
 			Stelo's core functionality? Either way, Stelo thrives on community involvement in it's
