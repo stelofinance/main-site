@@ -16,9 +16,3 @@
 		target="_blank">GitHub</a
 	>
 </div>
-
-<style>
-	:global(*) {
-		--header-offset: 61.3px;
-	}
-</style>
