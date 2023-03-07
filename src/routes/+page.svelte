@@ -1,4 +1,5 @@
 <script lang="ts">
+	import ContributeBanner from "$lib/components/ContributeBanner.svelte";
 	import Hero from "$lib/components/Hero.svelte";
 	import InfoCards from "$lib/components/InfoCards.svelte";
 	import Walkthrough from "$lib/components/Walkthrough.svelte";
@@ -15,3 +16,4 @@
 <Hero />
 <InfoCards />
 <Walkthrough />
+<ContributeBanner />
