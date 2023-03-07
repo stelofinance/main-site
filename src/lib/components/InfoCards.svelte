@@ -27,12 +27,16 @@
 	];
 </script>
 
-<div class="w-screen bg-gradient-to-b from-anakiwa to-melrose py-10 px-4">
-	<div class="grid grid-cols-1 gap-4">
+<div class="bg-gradient-to-b from-anakiwa-300 to-melrose py-10 px-4 lg:py-16 lg:px-10">
+	<div
+		class="mx-auto grid max-w-sm grid-cols-1 gap-4 sm:max-w-screen-xl sm:grid-cols-2 md:gap-6 lg:grid-cols-3 xl:gap-10"
+	>
 		{#each info as { title, body }}
-			<div class="flex flex-col rounded-lg bg-white bg-opacity-20 py-5 px-3 text-center shadow-md">
-				<p class="text-lg font-medium">{title}</p>
-				<p class="mt-2 text-sm font-light">{body}</p>
+			<div
+				class="flex flex-col rounded-lg bg-white bg-opacity-20 py-5 px-3 text-center shadow-md xl:p-8"
+			>
+				<p class="text-lg font-medium xl:text-2xl">{title}</p>
+				<p class="mt-2 text-sm font-light xl:mt-6 xl:text-lg xl:leading-tight">{body}</p>
 			</div>
 		{/each}
 	</div>
