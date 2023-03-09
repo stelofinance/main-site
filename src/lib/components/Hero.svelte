@@ -14,7 +14,9 @@
 					href="https://bitcraftonline.com/">BitCraft</a
 				>'s leading<br />finance platform
 			</h1>
-			<h2 class="mt-2 flex justify-center text-center text-sm lg:mt-3 lg:text-base 2xl:text-lg">
+			<h2
+				class="mt-2 flex justify-center text-center text-sm text-boulder-100 lg:mt-3 lg:text-base 2xl:text-lg"
+			>
 				Innovative.&nbsp;<span class="hidden lg:block">Player focused.&nbsp;</span>Player driven.
 			</h2>
 			<div class="mt-3 flex gap-5 lg:mt-5 lg:justify-center 2xl:gap-8">
