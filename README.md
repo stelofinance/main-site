@@ -21,4 +21,4 @@ To build the production version of the site:
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+You can preview the production build with `npm run preview`
