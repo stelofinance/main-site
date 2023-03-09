@@ -3,11 +3,11 @@
 </script>
 
 <div
-	class="sticky top-0 z-30 flex items-center gap-3 bg-boulder-900 py-2 px-3  text-white
+	class="sticky top-0 z-30 flex items-center gap-3 bg-neutral-900 py-2 px-3  text-white
 	lg:py-4 lg:px-10 2xl:px-20"
 >
 	<a href="/" aria-label="Go to homepage">
-		<LogoFull classList="w-28 h-auto mr-auto 2xl:w-32" />
+		<LogoFull className="w-28 h-auto mr-auto 2xl:w-32" />
 	</a>
 
 	<!-- 

@@ -1,9 +1,9 @@
 <script lang="ts">
-	export let classList = "";
+	export let className = "";
 </script>
 
 <svg
-	class={classList}
+	class={className}
 	width="1000"
 	height="1156"
 	viewBox="0 0 1000 1156"

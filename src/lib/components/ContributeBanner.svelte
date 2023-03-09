@@ -1,26 +1,32 @@
-<div class="my-10 mx-6 flex rounded-lg bg-gradient-to-r from-melrose to-anakiwa p-4">
+<script>
+	import Nintron from "$lib/illustrations/Nintron.svelte";
+</script>
+
+<div
+	class="my-10 mx-6 flex max-w-screen-xl gap-36 rounded-lg bg-gradient-to-r from-melrose to-anakiwa p-4 lg:mx-16 lg:py-6 lg:px-10 xl:mx-auto"
+>
 	<div class="flex flex-col">
-		<p class="text-2xl font-medium">Contribute to the Stelo Ecosystem</p>
-		<p class="mt-3">
+		<p class="text-2xl font-medium lg:text-3xl">Contribute to the Stelo Ecosystem</p>
+		<p class="mt-3 text-neutral-800 lg:mt-5 lg:text-xl lg:leading-tight">
 			Have a great idea for an app on our platform? Or maybe you're looking to directly contribe to
 			Stelo's core functionality? Either way, Stelo thrives on community involvement in it's
 			ecosystem, and we'd love your help!
 		</p>
-		<div class="mt-6 flex gap-4 text-sm">
+		<div class="mt-6 flex gap-4 text-sm lg:gap-5 lg:text-base xl:mt-auto">
 			<a
-				class="flex items-center rounded-md bg-boulder-900 py-1 px-2 text-white"
+				class="flex items-center rounded-md bg-neutral-900 py-1 px-2 text-white lg:py-2 lg:px-3"
 				href="https://discord.gg/t6gM7v7V7T"
 				rel="noopener noreferrer"
 				target="_blank">Join the Discord</a
 			>
 			<a
-				class="flex items-center gap-2 rounded-md border border-boulder-900 py-1 px-2"
+				class="flex items-center gap-2 rounded-md border border-neutral-900 py-1 px-2 lg:px-3"
 				href="https://github.com/stelofinance"
 				rel="noopener noreferrer"
 				target="_blank"
 			>
 				<svg
-					class="h-5 w-5"
+					class="h-5 w-5 lg:h-6 lg:w-6"
 					width="27"
 					height="27"
 					viewBox="0 0 27 27"
@@ -36,5 +42,5 @@
 			</a>
 		</div>
 	</div>
-	<!-- Desktop icon stuff -->
+	<Nintron className="hidden xl:block" />
 </div>
