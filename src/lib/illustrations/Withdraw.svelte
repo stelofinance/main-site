@@ -4,6 +4,7 @@
 
 <svg
 	class={className}
+	aria-label="2d illustration of a person moving boxes on a cart"
 	width="232"
 	height="154"
 	viewBox="0 0 232 154"

@@ -7,6 +7,7 @@
 
 <div class="relative {className}">
 	<svg
+		aria-label="Nintron profile picture"
 		width="218"
 		height="248"
 		viewBox="0 0 218 248"
@@ -21,6 +22,7 @@
 	</svg>
 	<svg
 		class={orbClasses}
+		aria-label="Interconnected spinning hexagon"
 		style="right: 0; top: 27%;"
 		width="40"
 		height="46"

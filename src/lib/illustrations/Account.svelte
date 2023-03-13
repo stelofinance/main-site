@@ -4,6 +4,7 @@
 
 <svg
 	class={className}
+	aria-label="2d illustration of a person holding up account documents"
 	width="199"
 	height="194"
 	viewBox="0 0 199 194"

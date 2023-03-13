@@ -4,6 +4,7 @@
 
 <svg
 	class={className}
+	aria-label="Stelo icon, a hexagonal star with the word Stelo on the right"
 	width="2858"
 	height="1156"
 	viewBox="0 0 2858 1156"
