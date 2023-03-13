@@ -35,7 +35,7 @@
 			<div
 				class="flex flex-col rounded-lg bg-white bg-opacity-20 py-5 px-3 text-center shadow-md xl:p-8"
 			>
-				<p class="text-lg font-medium xl:text-2xl">{title}</p>
+				<h2 class="text-lg font-medium xl:text-2xl">{title}</h2>
 				<p class="mt-2 text-sm font-light xl:mt-6 xl:text-lg xl:leading-tight">{body}</p>
 			</div>
 		{/each}
