@@ -17,7 +17,7 @@
 	];
 </script>
 
-<div class="flex items-center gap-4 py-4 px-3 text-white lg:gap-10 lg:py-6 lg:px-16 2xl:gap-12">
+<footer class="flex items-center gap-4 py-4 px-3 text-white lg:gap-10 lg:py-6 lg:px-16 2xl:gap-12">
 	<LogoFull className="w-24 h-auto mr-auto lg:w-32 2xl:w-36" />
 
 	{#each links as { href, title }}
@@ -25,4 +25,4 @@
 			>{title}</a
 		>
 	{/each}
-</div>
+</footer>

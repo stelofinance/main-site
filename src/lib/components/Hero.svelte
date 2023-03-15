@@ -2,7 +2,7 @@
 	import LogoColored from "$lib/icons/LogoColored.svelte";
 </script>
 
-<div class="relative flex h-screen-available flex-col items-center justify-center">
+<main class="relative flex h-screen-available flex-col items-center justify-center">
 	<div class="mb-40 flex flex-col items-center gap-4 text-white lg:flex-row lg:gap-10 2xl:gap-14">
 		<LogoColored className="h-32 w-32 lg:h-48 lg:w-48 2xl:h-64 2xl:w-64" />
 		<div class="flex flex-col">
@@ -60,4 +60,4 @@
 	>
 		<p class="tracking-wider">THE STELO FINANCE PLATFORM</p>
 	</div>
-</div>
+</main>
