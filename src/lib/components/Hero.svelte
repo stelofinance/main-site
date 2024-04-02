@@ -20,13 +20,29 @@
 				Innovative.&nbsp;<span class="hidden lg:block">Player focused.&nbsp;</span>Player driven.
 			</h2>
 			<div class="mt-3 flex gap-5 lg:mt-5 lg:justify-center 2xl:gap-8">
-				<p
-					aria-label="Will be a link in the future"
-					class="flex items-center gap-2 rounded-full bg-melrose py-1 px-4 text-sm font-medium
-						text-neutral-800 lg:px-6 lg:text-base 2xl:py-2 2xl:px-14 2xl:text-lg"
+				<a
+					href="https://app.stelo.finance/login"
+					rel="noopener noreferrer"
+					target="_blank"
+					class="flex items-center gap-2 rounded-full bg-melrose py-1 px-4 text-sm font-medium text-neutral-800
+					transition-colors duration-300 hover:bg-melrose-200 lg:px-6 lg:text-base 2xl:py-2 2xl:px-14 2xl:text-lg"
 				>
-					Coming Soon
-				</p>
+					Alpha App
+					<svg
+						aria-label="right arrow"
+						class="h-3 w-3 lg:h-3.5 lg:w-3.5 2xl:h-4 2xl:w-4"
+						width="20"
+						height="20"
+						viewBox="0 0 20 20"
+						fill="none"
+						xmlns="http://www.w3.org/2000/svg"
+					>
+						<path
+							d="M0 8.73737V11.2626H15.1515L8.20707 18.2071L10 20L20 10L10 0L8.20707 1.79293L15.1515 8.73737H0Z"
+							fill="currentColor"
+						/>
+					</svg>
+				</a>
 				<a
 					href="https://discord.gg/t6gM7v7V7T"
 					rel="noopener noreferrer"
