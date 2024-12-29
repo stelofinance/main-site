@@ -1,3 +1,6 @@
+> [!NOTE]
+> No longer in use, refer to the [stelofinance](https://github.com/stelofinance/stelofinance) mono repo
+
 # Stelo Finanace - Main Site
 
 The main site for newcomers to Stelo. The purpose is conveying Stelo's mission and functionality, along with joining the platform and community.
